@@ -1,0 +1,9 @@
+title: 5-Klang
+#email: green-carrot@orange-cactus.org
+description: >- # this means to ignore newlines until "baseurl:"
+  Eine fünfköpfige Volksmusikgruppe aus dem Südosten Österreichs.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://www.5-klang.at" # the base hostname & protocol for your site, e.g. http://example.com
+
+# Build settings
+theme: minima

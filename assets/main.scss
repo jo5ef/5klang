@@ -1,0 +1,57 @@
+---
+---
+
+@import "minima";
+
+body {
+    background-color: #FEFAE0;
+    color: #283618;
+    font-family: sans-serif;
+}
+
+img {
+    margin: 0.5em 0.2em;
+    padding: 0;
+    border: 1px solid #000;
+}
+
+img.logo {
+    margin: 0.7em 0;
+    padding: 0;
+    border: 0;
+}
+
+.site-header {
+    border-top-color: #000;
+    border-bottom-color: #BC6C25;
+    border-bottom-width: 5px;
+}
+
+h1 {
+	color: #606C38;
+	font-weight: bold;
+}
+
+a:link {
+	color: #DDA15E;
+}
+
+a:visited {
+    color: #BC6C25;
+}
+
+a:active {
+	color: #FFF;
+}
+
+thead {
+    display: none;
+}
+
+table tr:nth-child(even) {
+    background-color: #FEFAE0;
+}
+
+.site-nav .page-link {
+    color: #DDA15E;
+}
