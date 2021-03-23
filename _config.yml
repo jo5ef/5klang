@@ -7,3 +7,4 @@ url: "https://www.5-klang.at" # the base hostname & protocol for your site, e.g.
 
 # Build settings
 theme: minima
+google_analytics: G-70NSXF18LR
