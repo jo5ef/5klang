@@ -8,7 +8,7 @@ Das Ensemble 5-Klang besteht seit 2020 und widmet sich der Volksmusik aus der st
 
 Noten aus alten Archivbeständen, Dachböden und eigene Kompositionen werden für diese Besetzungen bearbeitet und neu interpretiert.
 
-Jahrzehntelang lagen Notenblätter mit einer bestechend schönen Handschrift aus der Sammlung von Franz Strobl ( Ollersdorf) unberührt in einem Archiv und kamen durch Zufall in den Besitz von Maria und Kurt.
+Jahrzehntelang lagen Notenblätter mit einer bestechend schönen Handschrift aus der Sammlung von Franz Strobl (Ollersdorf) unberührt in einem Archiv und kamen durch Zufall in den Besitz von Maria und Kurt.
 
 Einige dieser Stücke von 1900-1930 sind nun fix im Repertoire und wurden bereits von ORF aufgenommen.
 
@@ -24,3 +24,7 @@ Man schaut 100 Jahre zurück und entdeckt, welche Musik im Burgenland gespielt w
 * Rosemarie Heptner (_Harfe_): Logopädie und Harfe passen sehr gut zusammen
 * Regina Potzmann (_Querflöte_): Musikunterricht vormittags - hier die hohen Flötentöne
 * Gerhard Potzmann (_\Steir.Harmonika/Klarinette_): Immer am Organisieren und Stücke suchen und dann musizieren
+
+## Kontakt
+
+[info@5-klang.at](mailto:info@5-klang.at)
