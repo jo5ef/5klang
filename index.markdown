@@ -14,9 +14,6 @@ Einige dieser Stücke von 1900-1930 sind nun fix im Repertoire und wurden bereit
 
 Man schaut 100 Jahre zurück und entdeckt, welche Musik im Burgenland gespielt wurde und welche Musikstücke der steirisch- burgenländischen Auswanderer wieder ihren Weg zurück in die alte Heimat gefunden haben.
 
-* [Termine](/termine)
-* [Hörproben](/musik)
-
 ## Besetzung:
 
 * Maria Pfleger (_Violine_): Nach Jahrzehnten im RSO Wien hat sie die Volksmusik für sich entdeckt
@@ -28,3 +25,4 @@ Man schaut 100 Jahre zurück und entdeckt, welche Musik im Burgenland gespielt w
 ## Kontakt
 
 [info@5-klang.at](mailto:info@5-klang.at)
+
