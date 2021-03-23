@@ -20,7 +20,7 @@ Man schaut 100 Jahre zurück und entdeckt, welche Musik im Burgenland gespielt w
 * Kurt Pfleger (_Fagott_): Als Fagottlehrer und Musiker zurück zu den musikalischen Wurzeln
 * Rosemarie Heptner (_Harfe_): Logopädie und Harfe passen sehr gut zusammen
 * Regina Potzmann (_Querflöte_): Musikunterricht vormittags - hier die hohen Flötentöne
-* Gerhard Potzmann (_\Steir.Harmonika/Klarinette_): Immer am Organisieren und Stücke suchen und dann musizieren
+* Gerhard Potzmann (_Steir.Harmonika/Klarinette_): Immer am Organisieren und Stücke suchen und dann musizieren
 
 ## Kontakt
 
