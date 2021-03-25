@@ -4,15 +4,21 @@ layout: home
 
 # 5-Klang
 
+![sumt](assets/gruppenfoto.jpg)
+sumt
+
 Das Ensemble 5-Klang besteht seit 2020 und widmet sich der Volksmusik aus der steirisch/burgenländischen Grenzregion sowie der Volksmusik in der Zeit der burgenländischen Auswanderungsbewegung nach Amerika.
 
 Noten aus alten Archivbeständen, Dachböden und eigene Kompositionen werden für diese Besetzungen bearbeitet und neu interpretiert.
 
-Jahrzehntelang lagen Notenblätter mit einer bestechend schönen Handschrift aus der Sammlung von Franz Strobl (Ollersdorf) unberührt in einem Archiv und kamen durch Zufall in den Besitz von Maria und Kurt.
+Jahrzehntelang lagen Notenblätter mit einer bestechend schönen Handschrift aus der Sammlung von Franz Strobl (Ollersdorf) unberührt in einem Archiv und kamen durch Zufall in den Besitz von Maria und Kurt. Einige dieser Stücke von 1900-1930 sind nun fix im Repertoire und wurden bereits vom ORF aufgenommen.
 
-Einige dieser Stücke von 1900-1930 sind nun fix im Repertoire und wurden bereits von ORF aufgenommen.
+![Notenmaterial aus Ollersdorf](assets/noten.jpg)
+Notenmaterial aus Ollersdorf
 
 Man schaut 100 Jahre zurück und entdeckt, welche Musik im Burgenland gespielt wurde und welche Musikstücke der steirisch- burgenländischen Auswanderer wieder ihren Weg zurück in die alte Heimat gefunden haben.
+
+![Hamburg](assets/hamburg.jpg)
 
 ## Besetzung:
 
@@ -22,7 +28,11 @@ Man schaut 100 Jahre zurück und entdeckt, welche Musik im Burgenland gespielt w
 * Regina Potzmann (_Querflöte_): Musikunterricht vormittags - hier die hohen Flötentöne
 * Gerhard Potzmann (_Steir.Harmonika/Klarinette_): Immer am Organisieren und Stücke suchen und dann musizieren
 
+![Aufnahme  ](assets/aufnahme.jpg)
+
 ## Kontakt
 
-[info@5-klang.at](mailto:info@5-klang.at)
+Gerhard Potzmann  
+[gpotzmann@yahoo.com](mailto:gpotzmann@yahoo.com)  
+Tel.: 0664 59 69 442  
 
