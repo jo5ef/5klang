@@ -2,8 +2,6 @@
 layout: home
 ---
 
-# 5-Klang
-
 ![sumt](assets/gruppenfoto.jpg)
 sumt
 
@@ -20,7 +18,7 @@ Man schaut 100 Jahre zurück und entdeckt, welche Musik im Burgenland gespielt w
 
 ![Hamburg](assets/hamburg.jpg)
 
-## Besetzung:
+## Besetzung
 
 * Maria Pfleger (_Violine_): Nach Jahrzehnten im RSO Wien hat sie die Volksmusik für sich entdeckt
 * Kurt Pfleger (_Fagott_): Als Fagottlehrer und Musiker zurück zu den musikalischen Wurzeln
@@ -29,6 +27,16 @@ Man schaut 100 Jahre zurück und entdeckt, welche Musik im Burgenland gespielt w
 * Gerhard Potzmann (_Steir.Harmonika/Klarinette_): Immer am Organisieren und Stücke suchen und dann musizieren
 
 ![Aufnahme  ](assets/aufnahme.jpg)
+
+## Hörproben
+
+1. [Bezikl Polka (Volksweise, Bearb. Gerhard Potzmann)](/assets/music/bezikl-polka.mp3)<br/><audio src="/assets/music/bezikl-polka.mp3" controls="true"></audio>
+1. [Walzer für Hans (Komp. Gerhard Potzmann)](/assets/music/walzer-fuer-hans.mp3)<br/><audio src="/assets/music/walzer-fuer-hans.mp3" controls="true"></audio>
+1. [Auf-auf Polka (Volksweise, Bearb. Gerhard Potzmann)](/assets/music/auf-auf-polka.mp3)<br/><audio src="/assets/music/auf-auf-polka.mp3" controls="true"></audio>
+1. [Kirtag Polka francaise (Volksweise, Bearb. Regina und Gerhard Potzmann)](/assets/music/kirtag-polka-francaise.mp3)<br/><audio src="/assets/music/kirtag-polka-francaise.mp3" controls="true"></audio>
+1. [Stiagnwirt Franze (Komp. Bernd Prettenthaler)](/assets/music/stiagnwirt-polka-franze.mp3)<br/><audio src="/assets/music/stiagnwirt-polka-franze.mp3" controls="true"></audio>
+
+sumt/ orf steiermark (Livemitschnitt)
 
 ## Kontakt
 
