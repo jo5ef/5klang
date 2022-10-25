@@ -4,6 +4,11 @@ title: Termine
 permalink: /termine/
 ---
 
+# Samstag, 29. Oktober 2022, 19h
+
+700 Jahre Ollersdorf. Eine Zeitreise mit Musik, Theater und Gesang
+Gasthaus Holper, Ollersdorf
+
 # Samstag, 23. Oktober 2021, 19h
 
 100 Jahre Burgenland im Gasthaus Holper in Ollersdorf
