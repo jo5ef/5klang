@@ -4,6 +4,9 @@ title: Termine
 permalink: /termine/
 ---
 
+# Montag, 1. Mai 2023, 20.15h
+Fernsehsendung ORF 2, "Österreich vom Feinsten" mit Hans Knauß
+
 # Samstag, 29. Oktober 2022, 19h
 
 700 Jahre Ollersdorf. Eine Zeitreise mit Musik, Theater und Gesang
