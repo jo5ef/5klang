@@ -4,6 +4,14 @@ title: Termine
 permalink: /termine/
 ---
 
+# Sonntag, 12. November 2023, 16h
+
+CD Präsentation G'redt & g'spüt
+Mundartgedichte & Volksmusik aus der Steiermark
+Steinhalle Lannach
+
+![G'redt & g'spüt](/assets/gredtundgspuet.jpg)
+
 # Montag, 1. Mai 2023, 20.15h
 Fernsehsendung ORF 2, "Österreich vom Feinsten" mit Hans Knauß
 
