@@ -6,9 +6,9 @@ permalink: /termine/
 
 # Freitag, 3. Mai 2024, 20h
 
-Sänger-und Musikantentreffen Pinggau
-Veranstaltungszentrum
-Hauptplatz 1, 8243 Pinggau
+Sänger-und Musikantentreffen Pinggau  
+Veranstaltungszentrum  
+Hauptplatz 1, 8243 Pinggau  
 Beginn: 20:00 Uhr/ Einlass: 19.30 Uhr
 
 # Sonntag, 12. November 2023, 16h
