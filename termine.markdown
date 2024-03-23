@@ -11,6 +11,11 @@ Veranstaltungszentrum
 Hauptplatz 1, 8243 Pinggau  
 Beginn: 20:00 Uhr/ Einlass: 19.30 Uhr
 
+# Mittwoch, 27. März 2024, 20.15h, ORF2
+
+Hans Knauß präsentiert "s’Beste vom Feinsten - Ein Rückblick auf den 1. Durchgang"
+Landschaftliche Höhepunkte, regionale Vielfalt, echte Volksmusik und großartige Menschen – das ist „Österreich vom Feinsten“. Seit Oktober 2021 erkundet Hans Knauß in der beliebten ORF-Sendereihe die Besonderheiten und Kostbarkeiten von österreichischen Regionen. Am 27. März steht im ORF-2-Hauptabend eine Spezialausgabe auf dem Programm: „s’Beste vom Feinsten – Ein Rückblick auf den 1. Durchgang“.
+
 # Sonntag, 12. November 2023, 16h
 
 CD Präsentation G'redt & g'spüt
