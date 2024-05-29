@@ -5,7 +5,7 @@ jobs:
   build:
     <<: *defaults
     docker:
-      - image: circleci/ruby:2.5
+      - image: circleci/ruby:2.6.9
     environment:
       JEKYLL_ENV: production
       BUNDLE_PATH: ~/repo/vendor/bundle
@@ -32,7 +32,7 @@ jobs:
   deploy:
     <<: *defaults
     docker:
-      - image: circleci/python:3.6.3
+      - image: circleci/python:3.10.1
     environment:
       S3_BUCKET_NAME: www.5-klang.at
     steps:
