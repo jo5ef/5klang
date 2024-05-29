@@ -6,7 +6,7 @@ permalink: /termine/
 
 # Samstag, 21. Dezember 2024, 18h
 
-42. Gang durch den Advent
+42\. Gang durch den Advent
 Adventsingen der VTG Stainz
 Veranstaltungsort: Refektorium Schloss Stainz
 8510 Stainz
