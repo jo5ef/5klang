@@ -6,10 +6,10 @@ permalink: /termine/
 
 # Samstag, 21. Dezember 2024, 18h
 
-42\. Gang durch den Advent
-Adventsingen der VTG Stainz
-Veranstaltungsort: Refektorium Schloss Stainz
-8510 Stainz
+42\. Gang durch den Advent  
+Adventsingen der VTG Stainz  
+Veranstaltungsort: Refektorium Schloss Stainz  
+8510 Stainz  
 
 Der Hohenturner Burschengesang aus Kärnten wird diesmal die BesucherInnen mit seinen Liedern begeistern. Sehr viel zur weihnachtlichen Stimmung beitragen wird der Kärntner Harfenklang der mit Harfen, Zither, Hackbrett, Gitarre und Kontrabass aufspielen wird. Auch das Ensemble 5-Klang aus der steirisch-burgenländischen Grenzregion wird die Veranstaltung mit besinnnlichen und flotteren Weisen umrahmen.
 
