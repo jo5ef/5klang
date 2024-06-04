@@ -32,7 +32,7 @@ jobs:
   deploy:
     <<: *defaults
     docker:
-      - image: circleci/python:3.10.1
+      - image: circleci/python:latest
     environment:
       S3_BUCKET_NAME: www.5-klang.at
     steps:
