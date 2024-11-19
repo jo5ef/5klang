@@ -15,6 +15,8 @@ Veranstaltungsort: Refektorium Schloss Stainz
 
 Der Hohenturner Burschengesang aus Kärnten wird diesmal die BesucherInnen mit seinen Liedern begeistern. Sehr viel zur weihnachtlichen Stimmung beitragen wird der Kärntner Harfenklang der mit Harfen, Zither, Hackbrett, Gitarre und Kontrabass aufspielen wird. Auch das Ensemble 5-Klang aus der steirisch-burgenländischen Grenzregion wird die Veranstaltung mit besinnnlichen und flotteren Weisen umrahmen.
 
+![Adventsingen](/assets/adventsingen.jpg)
+
 # Sonntag, 1. Dezember 2024, 10h
 Pfarrkirche Ilz, Musik zur Barbaramesse
 
