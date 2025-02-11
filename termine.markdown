@@ -6,6 +6,8 @@ permalink: /termine/
 
 # Sonntag, 23. Februar 2025, 9h
 
+![Radiomesse](/assets/radiomaria.jpg)
+
 Radio Maria
 Radiomesse Live-Übertragung aus der Pfarrkirche Ollersdorf im Burgenland
 
