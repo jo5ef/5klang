@@ -4,13 +4,10 @@ title: Termine
 permalink: /termine/
 ---
 
-# Sonntag, 23. Februar 2025
+# Sonntag, 23. Februar 2025, 9h
 
 Radio Maria
-Radiomesse Live-Übertragung
-Wo: Pfarrkirche Ollersdorf im Burgenland
-Uhrzeit: 9h
-Gestaltung: “5-Klang“
+Radiomesse Live-Übertragung aus der Pfarrkirche Ollersdorf im Burgenland
 
 # Samstag, 21. Dezember 2024, 18h
 
